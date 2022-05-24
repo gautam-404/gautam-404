@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/gautam-404)
 
 <!--
 **gautam-404/gautam-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
