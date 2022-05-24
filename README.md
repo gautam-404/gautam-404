@@ -6,7 +6,7 @@
           alt="Leetcode"
         />
      </a>
-    <a href="https://app.daily.dev/gautam404"><img src="https://api.daily.dev/devcards/eda827581cfa42b78c1d77b63d72b689.png?r=d4j" width="400" alt="Anuj Gautam's Dev Card"/></a>
+    <a href="https://app.daily.dev/gautam404"><img src="https://api.daily.dev/devcards/eda827581cfa42b78c1d77b63d72b689.png?r=d4j" width="256" align="right" alt="Anuj Gautam's Dev Card"/></a>
 </div>
     
  
