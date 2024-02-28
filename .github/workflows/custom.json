@@ -1,0 +1,17 @@
+{
+    "type": "normal",
+    "fileName": "profile-custom.svg",
+    "backgroundColor": "rgb(12,16,23)",
+    "foregroundColor": "#eeeeff",
+    "strongColor": "rgb(255,200,55)",
+    "weakColor": "#aaaaaa",
+    "radarColor": "rgb(112, 164, 248)",
+    "growingAnimation": true,
+    "contribColors": [
+        "rgb(91, 107, 181)",
+        "rgb(100, 102, 177)",
+        "rgb(109, 97, 173)",
+        "rgb(118, 91, 169)",
+        "rgb(126, 85, 163)"
+    ]
+}
