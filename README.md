@@ -5,6 +5,8 @@ I'm a second-year astrophysics PhD student at the [Centre for Astrophysics](http
 My research is focused on Asteroseismology, particularly with $\delta$ Scuti stars. I produce theoretical models for these stars to understand how various physical and computational parameters influence their pulsation behaviour. I am into open-source science and automation.
 
 📫 Feel free to drop me an email at anuj.gautam@unisq.edu.au.
+
+💻 [gautam-404.github.io](https://gautam-404.github.io/)
     
 
 
